@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🎓 Education & Career History
 - June 2022, Bachelor of Engineering in CS, [School of Computer Science](https://jsj.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
-- Currently, Master of Science in Engineering, [School of Computer Science and Engineeringd](http://scse.buaa.edu.cn/), [Beihang University](https://buaa.edu.cn/).
+- Currently, Master of Science in Engineering, [School of Computer Science and Engineering](http://scse.buaa.edu.cn/), [Beihang University](https://buaa.edu.cn/).
 
 ### 🔭 Main Research Interests
 - Computer Vision
